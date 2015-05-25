@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Dixon Built
+title: Dixon Built on GitHub
 description:
-logo: # 120x120 px default image used for Twitter summary card
+logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en-US
-url: 
+url: http://dixonge.github.io/dixon-built-for-github
 
 # Jekyll configuration
 
