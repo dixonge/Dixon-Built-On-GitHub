@@ -1,3 +1,5 @@
+Below is the original ReadMe file from the original repo. What you are looking at here is my own fork of it. Forking this existing setup was faster than building my own copy/version of Jekyll from scratch...
+
 # Skinny Bones Jekyll Starter
 
 Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.

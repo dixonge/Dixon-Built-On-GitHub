@@ -12,7 +12,7 @@ url: http://glennhasa.website/dixon-built-on-github
 sass:
     sass_dir: _sass
     style: compressed
-permalink: /:categories/:title/
+permalink: pretty # /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: pygments
