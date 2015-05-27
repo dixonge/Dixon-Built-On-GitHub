@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title:
 ---
 
-<img src="images/bio-photo.jpg">
+<p class="bio-image"><img src="images/bio-photo.jpg"></p>
 
 <div class="home-right">
 <h1>Glenn Dixon</h1>
